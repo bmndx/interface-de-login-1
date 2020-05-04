@@ -1,6 +1,6 @@
 # Faça seu login:
 
-Tela de login desenvolvida com o objetivo de colocar em prática meus conhecimentos em Desenvolvimento Web.
+Tela de login feita com o objetivo de colocar em prática os meus conhecimentos básicos em Desenvolvimento Web adquiridos até aqui.
 
 Este é o meu segundo projeto desenvolvido com HTML5 e CSS3.
 
