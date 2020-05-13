@@ -15,4 +15,4 @@ Através dos repositórios está sendo possível acompanhar a minha evolução n
 
 ## Screenshots do site:
 
-![](screenshots/login.png)
+![](screenshots/login-new-version.png)
