@@ -15,7 +15,7 @@ Este projeto é uma tela de login com mensagem de boas vindas, e-mail, senha, n�
  *Para este projeto eu aprendi como utilizar elementos flutuantes, posicionamento estático, relativo, absoluto e fixo e sobreposição de elementos.*
 
 ### 📷 Screenshot do site:
-![](screenshots/1.png)
+![](screenshots/login-new-version.png)
 ________
 
 <h4 align="center">
