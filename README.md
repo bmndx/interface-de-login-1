@@ -1,5 +1,5 @@
 <h1 align="center">
-  Interface de login
+  Interface de login :D
 </h1>
 
 ### Este é o meu segundo projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios está sendo possível acompanhar uma timeline da minha evolução.
